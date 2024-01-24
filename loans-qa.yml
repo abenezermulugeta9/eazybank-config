@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Contact person for QA support."
+  contactDetails:
+    name: "Travis kirk - QA Team Lead"
+    email: "traviskirk@eazybank.com"
+  onCallSupports:
+    - (444) 444-2376
+    - (444) 444-2361

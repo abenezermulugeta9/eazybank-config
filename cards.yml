@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Contact person for Dev support."
+  contactDetails:
+    name: "Charles Stevens - Development Lead"
+    email: "charlesstevens@eazybank.com"
+  onCallSupports:
+    - (333) 333-2346
+    - (333) 333-2348

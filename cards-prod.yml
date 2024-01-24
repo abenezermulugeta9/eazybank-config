@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Contact person for Production support."
+  contactDetails:
+    name: "Bob Dickens - Product Owner"
+    email: "bobdickens@eazybank.com"
+  onCallSupports:
+    - (333) 333-8347
+    - (333) 333-2384

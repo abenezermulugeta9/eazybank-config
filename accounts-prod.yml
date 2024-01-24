@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Contact person for Production support."
+  contactDetails:
+    name: "Dennis Tucker - Product Owner"
+    email: "dennistucker@eazybank.com"
+  onCallSupports:
+    - (555) 555-8347
+    - (555) 555-2384

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Contact person for QA support."
+  contactDetails:
+    name: "Clara Henry - QA Team Lead"
+    email: "clarahenry@eazybank.com"
+  onCallSupports:
+    - (333) 333-2367
+    - (333) 333-2388

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Contact person for Production support."
+  contactDetails:
+    name: "Dennis Tucker - Product Owner"
+    email: "dennistucker@eazybank.com"
+  onCallSupports:
+    - (444) 444-8347
+    - (444) 444-2384
