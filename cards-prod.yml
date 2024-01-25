@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Contact person for EazyBank cards microservice production environment support."
+  message: "Contact EazyBank's cards microservice production team."
   contactDetails:
     name: "Bob Dickens - Product Owner"
     email: "bobdickens@eazybank.com"
