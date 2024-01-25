@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Contact person for EazyBank Cards microservice QA environment support."
+  message: "Contact person for EazyBank Cards microservice qa environment support."
   contactDetails:
     name: "Clara Henry - QA Team Lead"
     email: "clarahenry@eazybank.com"
