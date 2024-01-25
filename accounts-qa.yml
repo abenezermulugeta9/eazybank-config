@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Contact person for EazyBank accounts microservice qa environment support."
+  message: "Contact EazyBank's accounts microservice quality assurance team."
   contactDetails:
     name: "Chris George - Quality Assurance Lead"
     email: "chrisgeorge@eazybank.com"
