@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Contact person for Dev support."
+  message: "Contact person for EazyBank Cards microservice Dev environment support."
   contactDetails:
     name: "Charles Stevens - Development Lead"
     email: "charlesstevens@eazybank.com"
