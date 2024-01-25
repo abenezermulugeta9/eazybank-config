@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Contact person for EazyBank accounts microservice development environment support."
+  message: "Contact EazyBank's accounts microservice development team."
   contactDetails:
     name: "John Doe - Development Lead"
     email: "johndoe@eazybank.com"
