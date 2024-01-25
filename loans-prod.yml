@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Contact person for EazyBank Loans microservice Production environment support."
+  message: "Contact person for EazyBank Loans microservice production environment support."
   contactDetails:
     name: "Dennis Tucker - Product Owner"
     email: "dennistucker@eazybank.com"
