@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Contact person for QA support."
+  message: "Contact person for EazyBank Loans microservice QA environment support."
   contactDetails:
     name: "Travis kirk - QA Team Lead"
     email: "traviskirk@eazybank.com"
